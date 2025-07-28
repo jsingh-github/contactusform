@@ -93,7 +93,7 @@ const ContactForm = () => {
                   <div className="text-gray-600">
                     <p>123 Business Street</p>
                     <p>Suite 100</p>
-                    <p>City, State 12345</p>
+                    <p>City, State NSW</p>
                   </div>
                 </div>
               </div>
